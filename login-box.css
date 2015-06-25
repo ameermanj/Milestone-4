@@ -1,0 +1,210 @@
+body {
+background: url("http://static.wallpedes.com/wallpaper/enormous/enormous-best-free-wallpaper-websites-blue-flower-background-free-wallpaper-websites-download-for-android-phone-iphone-computer-wallpapers-hd-desktop-christmas-3d.jpg")no-repeat center center fixed; 
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+padding: 100px 0 0 400px;
+}
+	
+#login-box {
+	width:333px;
+	height: 352px;
+	padding: 58px 76px 0 76px;
+	color: #ebebeb;
+	font: 12px Arial, Helvetica, sans-serif;
+	background: url(http://www.crk.com.br/Library/Images/login-box-backg.png) no-repeat left top;
+}
+#profile{
+	width:350px;
+	height: 352px;
+	padding: 58px 76px 0 76px;
+	color: #ebebeb;
+	font: 12px Arial, Helvetica, sans-serif;
+	background: url(http://www.crk.com.br/Library/Images/login-box-backg.png) no-repeat left top;
+}
+p
+{
+font-size:30;
+
+}
+
+#login-box h2 {
+	padding:0;
+	margin:0;
+	color: #ebebeb;
+	font: bold 30px "Calibri", Arial;
+}
+
+
+#login-box-name {
+	float: left;
+	display:inline;
+	width:110px;
+	text-align: right;
+	padding: 14px 10px 0 0;
+	margin:0 0 7px 0;
+	margin-top:20px;
+}
+#signup-box-name {
+	float: left;
+	display:inline;
+	width:80px;
+	text-align: right;
+	padding: 14px 10px 0 0;
+	margin:0 0 7px 0;
+	margin-top:20px;
+}
+#name {
+	float: left;
+	display:inline;
+	width:80px;
+	text-align: right;
+	padding: 14px 10px 0 0;
+	margin:0 0 7px 0;
+	margin-top:20px;
+	color:white;
+}
+#show
+{
+
+	width:80px;
+	text-align: left;
+	padding: 14px 10px 0 0;
+	margin-top:20px;
+	color:white;
+}
+th
+{
+	width:80px;
+	text-align: center;
+	padding: 14px 10px 0 0;
+	margin-top:20px;
+	color:7FFFD4;
+	font-size:15px;
+	font-family:"Calibri", Arial;
+}
+table
+{
+margin-left:200px;
+}
+
+#login-box-field {
+	float: left;
+	display:inline;
+	width:230px;
+	margin-top:20px;
+}
+#gender
+{
+	//float: left;
+	display:inline;
+	margin-top:15px;
+}
+
+
+.form-login {
+	width: 205px;
+	padding: 10px 4px 6px 3px;
+	border: 1px solid #0d2c52;
+	background-color:#1e4f8a;
+	font-size: 16px;
+	color: #ebebeb;
+}
+#button
+{
+margin-left:120px;
+margin-top:20px;
+display:inline-block;
+}
+.er
+{
+color:#AA0022;
+font-size:15px;
+}
+#error
+{
+color:#AA0022;
+font-size:15px;
+}
+input#logout   {
+//margin-top:30px;
+//margin-left:140px;
+width: 120px;
+height: 40px;
+border:2px solid rgb(0,102,153);
+background-color:#2E64FE;
+font-size:20;
+color:white;
+float:right;
+}
+#remember
+{
+margin-left:90px;
+margin-top:20px;
+display:inline-block;
+}
+
+#newid
+{
+margin-left:90px;
+margin-top:10px;
+color :white;
+}
+a
+{
+color:#FFFFFF
+}
+
+a:hover, a:focus, a:active {
+color:#F0F0F0
+}
+#submit
+{
+margin-left:120px;
+margin-top:15px;
+display:inline-block;
+}
+#login
+{
+align:center
+margin-top:15px;
+display:inline-block;
+}
+
+#menu ul
+{
+margin-top:10px;
+padding:0px;
+list-style-type:none;
+}
+#menu a 
+{
+display:block;
+width:8em;
+color:white;
+background-color:#000099;
+text-decoration:none;
+text-align:center;
+}
+
+#menu a:hover
+{
+background-color:#666666;
+}
+#menu li 
+{
+//float:left;
+margin-top:0.5em;
+}
+button
+{
+background-color:#000099;
+}
+.wrapper
+{
+border:1 px solid;
+width:75%;
+height:90%;
+margin:0 auto;
+}
